@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ExpandableExample</string>
+    <string-array name="dept_array">
+        <item>Vegetable</item>
+        <item>Fruits</item>
+        <item>Grocery</item>
+        <item>Electronics</item>
+        <item>Books</item>
+        <item>Language</item>
+    </string-array>
+
+</resources>
